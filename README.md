@@ -1,4 +1,4 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=juliusz-b/psiti-tkl&file=KLT_lab.mlx&focus=true)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=juliusz-b/psiti-tkl&file=KLT_lab.mlx)
 
 
 LAB PSITI TKL.
