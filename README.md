@@ -4,3 +4,6 @@
 LAB PSITI TKL.
 
 Uzyte zbiory danych: MATLAB default, Yalefaces, Caltech101.
+
+
+Uwagi/poprawki proszę podsyłać na juliusz.bojarczuk@pw.edu.pl, bo mlx jest plikiem binarnym, więc ciężko sprawdzać PR.
